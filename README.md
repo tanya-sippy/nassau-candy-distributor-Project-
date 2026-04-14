@@ -86,4 +86,5 @@ The dataset includes:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tanya-sippy/nassau-logistics-dashboard.git
+https://github.com/tanya-sippy/nassau-candy-distributor-Project-
+
